@@ -2,7 +2,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile..&hearts;++;As+for+Eranga,+he+loves+UI/UX...;Learning+the+Craft;Mastering+the+Designs;Active+Learner/Researcher,;Enjoy+your+time+here..<3"></a>
 </p>
 <h1 align="center">Hey Enthusiast<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Eranga Bowatte</h1>
-<h3 align="center">A UI/UX Enthusiast from Ceylon🇱🇰</h3>
+<h3 align="center">A UI/UX Enthusiast from Ceylon 🇱🇰</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
